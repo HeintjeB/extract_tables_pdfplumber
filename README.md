@@ -6,7 +6,7 @@ Repository for extracting poorly structured table data using PDFPlumber and Pyth
 
 This repository was created for a blog on Medium.com:
 
-- **Fine-tuning Tables Before Extracting with Python & PDFPlumber** ([link](https://medium.com/@heinburgmans/which-python-library-is-the-best-for-extracting-text-from-pdfs-be897480ae9d))
+- **Fine-tuning Tables Before Extracting with Python & PDFPlumber** ([link](https://medium.com/@heinburgmans/fine-tuning-tables-before-extracting-with-python-pdfplumber-4bfedc264bfc))
 
 ### Table of Contents
 
